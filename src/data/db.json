@@ -1,0 +1,12 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Les Aventuriers du Rail",
+      "publisher": "Days of Wonder",
+      "categories": ["Famille", "Stratégie"],
+      "imageUrl": "https://example.com/ticket-to-ride.jpg",
+      "rating": 8
+    }
+  ]
+} 
