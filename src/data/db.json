@@ -4,9 +4,49 @@
       "id": 1,
       "name": "Les Aventuriers du Rail",
       "publisher": "Days of Wonder",
-      "categories": ["Famille", "Stratégie"],
-      "imageUrl": "https://example.com/ticket-to-ride.jpg",
-      "rating": 8
+      "categories": ["Famille", "Stratégie", "Collection"],
+      "imageUrl": "https://placehold.co/800x500",
+      "rating": 8.5,
+      "featured": true,
+      "popularity": 95
+    },
+    {
+      "id": 2,
+      "name": "7 Wonders",
+      "publisher": "Repos Production",
+      "categories": ["Stratégie", "Civilisation", "Draft"],
+      "imageUrl": "https://placehold.co/600x400",
+      "rating": 8.2,
+      "isNew": true,
+      "popularity": 88
+    },
+    {
+      "id": 3,
+      "name": "Pandemic",
+      "publisher": "Z-Man Games",
+      "categories": ["Coopératif", "Stratégie", "Médical"],
+      "imageUrl": "https://placehold.co/700x450",
+      "rating": 7.8,
+      "popularity": 92
+    },
+    {
+      "id": 4,
+      "name": "Azul",
+      "publisher": "Next Move Games",
+      "categories": ["Abstrait", "Famille", "Tuiles"],
+      "imageUrl": "https://placehold.co/650x400",
+      "rating": 8.0,
+      "isNew": true,
+      "popularity": 85
+    },
+    {
+      "id": 5,
+      "name": "Carcassonne",
+      "publisher": "Hans im Glück",
+      "categories": ["Famille", "Tuiles", "Médiéval"],
+      "imageUrl": "https://placehold.co/750x450",
+      "rating": 7.5,
+      "popularity": 90
     }
   ]
 } 

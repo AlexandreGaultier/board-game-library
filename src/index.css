@@ -1,8 +1,15 @@
 :root {
-  --primary-color: #007bff;
-  --success-color: #28a745;
-  --danger-color: #dc3545;
-  --background-color: #f8f9fa;
+  --primary-color: #10b981;
+  --primary-hover: #059669;
+  --success-color: #6366f1;
+  --danger-color: #ef4444;
+  --background-color: #0f172a;
+  --surface-color: #1e293b;
+  --surface-color-light: #334155;
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --border-color: #475569;
+  --accent-color: #8b5cf6;
 }
 
 * {
@@ -12,16 +19,17 @@
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Inter', -apple-system, sans-serif;
   line-height: 1.6;
   background-color: var(--background-color);
-  color: #333;
+  color: var(--text-primary);
   min-height: 100vh;
 }
 
 button {
   cursor: pointer;
   font-family: inherit;
+  transition: all 0.2s ease;
 }
 
 img {
